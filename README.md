@@ -23,3 +23,9 @@ Stack-based 2D esoteric programming language inspired by [Befunge](https://esola
 | `/`       | Integer division: pop a and b, push b/a            |
 | `%`       | Modulo: pop a and b, push the remainder of b/a     |
 | `&`       | Accept integer from user and push it               |
+
+### Plans
+1. C interpreter, learn multifile C programming
+2. Language server, learn about language servers, possibly Zig or Rust
+3. Prove turing completeness, learn about proof assistants and their relevance to SWE, likely Lean 4
+4. Other interpreters, possibly Zig and Rust
